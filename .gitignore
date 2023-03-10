@@ -19,5 +19,6 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode
-
-
+GameRecorder.xcodeproj/project.pbxproj
+GameRecorder.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+GameRecorder.xcodeproj/xcshareddata/xcschemes/GameRecorder.xcscheme
